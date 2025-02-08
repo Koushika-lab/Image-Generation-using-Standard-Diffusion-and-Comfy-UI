@@ -1,6 +1,6 @@
 # Image-Generation-using-Standard-Diffusion-and-Comfy-UI
-Installation and Implementation:
-The easiest way to install ComfyUI on Windows is by using the standalone installer available on the official releases page. This version includes all the necessary dependencies, such as PyTorch, Hugging Face Transformers, and CUDA libraries, eliminating the need for separate installations. It provides a hassle-free setup, making it the best option for beginners and advanced users alike.
+## Installation and Implementation:
+The easiest way to install ComfyUI on Windows is by using the standalone installer available on the official releases page. This version includes all the necessary dependencies, such as PyTorch, Hugging Face Transformers, and CUDA libraries, eliminating the need for separate installations. It provides a trouble-free setup, making it the best option for beginners and advanced users alike.
 Steps to Install ComfyUI on Windows
 1.	Download the latest standalone version of ComfyUI from the official releases page or a trusted source.
 2.	Extract the downloaded comfyui-windows.zip file using 7-Zip or WinRAR.
