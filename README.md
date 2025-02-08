@@ -7,13 +7,15 @@ Steps to Install ComfyUI on Windows
 3.	Add models to the appropriate directory (e.g., models/checkpoints for Stable Diffusion models).
 4.	Run run_cpu.bat (for Windows with CPU) to start ComfyUI.
          ![image](https://github.com/user-attachments/assets/340daec8-13e3-488e-ae39-20e7d80ba1f7)
-			Fig (a) Comfy UI zip file contents
+			
+	Fig (a) Comfy UI zip file contents
   	
 6.	You need a checkpoint model to start using ComfyUI. Download a checkpoint model from the Hugging Face website. Put the model in the folder:
 ComfyUI_windows_portable\ComfyUI\models\checkpoints
 
      ![image](https://github.com/user-attachments/assets/ba2d0a97-dcf8-4e16-9541-6c9550bda649)
-  			Fig (b) Navigating to checkpoints
+  			
+	Fig (b) Navigating to checkpoints
   	
 7.	Now simply run the run_nvidia_gpu.bat (recommended) or run_cpu.bat. ComfyUI should automatically start on your browser. The command line will execute and generate a URL http://127.0.0.1:8188/ that you can now open in your browser.
 
